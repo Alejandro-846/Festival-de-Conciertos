@@ -211,4 +211,4 @@ db.asistentes.find({
 
 ## ✅ Conclusión
 
-Este proyecto demuestra cómo aplicar consultas avanzadas, funciones personalizadas, simulación de transacciones e índices en MongoDB para manejar información de un festival musical. ¡Un excelente ejercicio de modelado, optimización y manipulación de datos en bases NoSQL!
+Este proyecto demuestra cómo aplicar consultas avanzadas, funciones personalizadas, simulación de transacciones e índices en MongoDB para manejar información de un festival musical.
